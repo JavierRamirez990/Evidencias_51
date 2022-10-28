@@ -1,0 +1,18 @@
+body{
+    background-image: url(fondo.jpg);
+    background-size: cover;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+    
+}
+div{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
